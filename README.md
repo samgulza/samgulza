@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @samgulza
+- 👋 Hi, I’m @samgulza, nurse
+- 🏪 I'm working in samsung medical center
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning machine-learning, python, SQL
 - 📫 How to reach me E-mail leeju920@naver.com 
